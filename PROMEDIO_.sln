@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROMEDIO_.Android", "PROMEDIO_.Android\PROMEDIO_.Android.csproj", "{775A1D1F-AD42-4707-959E-4F84B71602FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROMEDIO_", "PROMEDIO_\PROMEDIO_.csproj", "{B3178F61-1746-441A-85D0-42BE9437D94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775A1D1F-AD42-4707-959E-4F84B71602FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775A1D1F-AD42-4707-959E-4F84B71602FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775A1D1F-AD42-4707-959E-4F84B71602FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{775A1D1F-AD42-4707-959E-4F84B71602FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775A1D1F-AD42-4707-959E-4F84B71602FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775A1D1F-AD42-4707-959E-4F84B71602FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B3178F61-1746-441A-85D0-42BE9437D94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3178F61-1746-441A-85D0-42BE9437D94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3178F61-1746-441A-85D0-42BE9437D94E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B3178F61-1746-441A-85D0-42BE9437D94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3178F61-1746-441A-85D0-42BE9437D94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3178F61-1746-441A-85D0-42BE9437D94E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1135FD0-441E-4794-BEF4-F3F5858C5DD3}
+	EndGlobalSection
+EndGlobal
